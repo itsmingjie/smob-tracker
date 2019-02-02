@@ -16,3 +16,16 @@ html {
 img.nav-icon {
     width: 6rem;
 }
+
+.profile .is-col {
+    padding: 0.5rem;
+}
+
+.profile .is-col img {
+    width: 100%;
+    max-width: 50vw;
+}
+
+tiny {
+    font-size: 60%;
+}

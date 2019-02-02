@@ -1,6 +1,6 @@
 +++
 title = "What have they promised?"
-description = "Previous SMOBs keep \"promising\" us things that they are going to do when they are elected. Let's see how they did.<br>Correction or updates? Tweet at <a href=\"https://twitter.com/itsmingjie\">@itsmingjie</a>."
+description = "Previous SMOBs keep \"promising\" us things that they are going to do when they are elected. Let's see how they did.<br />Correction or updates? Tweet at <a href=\"https://twitter.com/itsmingjie\">@itsmingjie</a>.<br /><tiny>Candidate information & portrait adapted from <a href=\"https://www.montgomeryschoolsmd.org/departments/student-leadership/smob/index.aspx\">MCPS</a></tiny>"
 draft = false
 layout = "home"
 +++
@@ -24,6 +24,17 @@ layout = "home"
                 </tr>
             </thead>
             <tbody>
+                <div class="is-row profile">
+                    <div class="is-col is-30">
+                        <img src="/img/smob/41.jpg">
+                    </div>
+                    <div class="is-col is-70">
+                        <h3 class="title">41. Ananya Tadikonda</h3>
+                        <p>2018–2019 · Richard Montgomery HS</p>
+                        <p>Ms. Tadikonda is the 41st student member of the Board of Education. She is a member of the Board's Fiscal Management Committee and the Policy Management Committee.</p>
+                    </div>
+                </div>
+                <hr />
                 <tr>
                     <td>Universal Chromebook Rental Program</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=300">MTC 2018 5:00</a></td>
@@ -105,16 +116,58 @@ layout = "home"
             </tbody>
         </table>
     </section>
-
     <section id="40">
-
+        <div class="is-row profile">
+            <div class="is-col is-30">
+                <img src="/img/smob/40.jpg">
+            </div>
+            <div class="is-col is-70">
+                <h3 class="title">40. Matthew Post</h3>
+                <p>2017–2018 · Sherwood HS</p>
+                <p>Mr. Post is the 40th student member of the Board of Education. He is a member of the Board's Fiscal Management Committee and the Policy Management Committee.</p>
+            </div>
+        </div>
+        <hr />
+        <table class="is-striped">
+            <thead>
+                <tr>
+                    <th>Proposal</th>
+                    <th>Reference</th>
+                    <th>Status</th>
+                    <th>Comments</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
     </section>
-
     <section id="39">
-
+        <div class="is-row profile">
+            <div class="is-col is-30">
+                <img src="/img/smob/39.jpg">
+            </div>
+            <div class="is-col is-70">
+                <h3 class="title">38-39. Eric Guerci</h3>
+                <p>2015–2017 · Bethesda-Chevy Chase HS</p>
+                <p>Mr. Guerci, a senior at Bethesda-Chevy Chase High School, is the 39th student member of the Board of Education. In the past few years, he has held several leadership positions, including serving with the Montgomery County Regional (MCR) Student Government Association, and working with the Maryland Association of Student Councils (MASC).</p>
+            </div>
+        </div>
+        <hr />
+        <table class="is-striped">
+            <thead>
+                <tr>
+                    <th>Proposal</th>
+                    <th>Reference</th>
+                    <th>Status</th>
+                    <th>Comments</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
     </section>
-
     <section id="more">
-
+        <p>I will try my best to add in more candidates whenever I can find information about them. Want to help? Please tweet at <a href=\"https://twitter.com/itsmingjie\">@itsmingjie</a> or email me <a href="mailto:smobtracker@mingjie.info">smobtracker@mingjie.info</a>.</p>
+        <p>I do not accept partnership with any candidates or active SMOBs. All opinions are my own. My personal decisions to work with a candidate in the current SMOB election does not change the political values of this site.</p>
     </section>
 </div>
