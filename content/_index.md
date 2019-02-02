@@ -167,7 +167,7 @@ layout = "home"
         </table>
     </section>
     <section id="more">
-        <p>I will try my best to add in more candidates whenever I can find information about them. Want to help? Please tweet at <a href=\"https://twitter.com/itsmingjie\">@itsmingjie</a> or email me <a href="mailto:smobtracker@mingjie.info">smobtracker@mingjie.info</a>.</p>
+        <p>I will try my best to add in more SMOB members and their policies whenever I can find information about them. Want to help? Please tweet at <a href=\"https://twitter.com/itsmingjie\">@itsmingjie</a> or email me <a href="mailto:smobtracker@mingjie.info">smobtracker@mingjie.info</a>.</p>
         <p>I do not accept partnership with any candidates or active SMOBs. All opinions are my own. My personal decisions to work with a candidate in the current SMOB election does not change the political values of this site.</p>
     </section>
 </div>
