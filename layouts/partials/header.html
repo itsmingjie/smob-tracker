@@ -1,0 +1,23 @@
+<div id="top">
+  <div id="top-brand">
+    <!--<a href="/" title="home">{{ .Site.Title }}</a>-->
+    <a href="/" title="home"><img src="{{ .Site.Params.logo }}" class="nav-icon" /></a>
+  </div>
+  <nav id="top-nav-main">
+    <ul>
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL }}" {{if  $currentPage.IsMenuCurrent "main" . }} class="active" {{end}}>{{ .Name }}</a></li>
+      {{end}}
+    </ul>
+  </nav>
+  <nav id="top-nav-extra">
+    <ul>
+      {{ range .Site.Menus.extra }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Name }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </nav>
+</div>

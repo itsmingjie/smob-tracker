@@ -1,0 +1,17 @@
+<nav class="pager">
+    <div class="is-center">
+        {{if .Paginator.HasPrev }}
+        <a href="{{ .Paginator.Prev.URL }}" class="is-prev" style="float: none">Previous</a>
+        {{else}}
+        <a class="is-prev is-disabled" style="float: none">Previous</a>
+        {{ end }}
+        <span class="is-current" style="float: none">Page {{ .Paginator.PageNumber }} of
+            {{ .Paginator.TotalPages }}</span>
+
+        {{if .Paginator.HasNext }}
+        <a href="{{ .Paginator.Prev.URL }}" class="is-next" style="float: none">Next</a>
+        {{else}}
+        <a class="is-next is-disabled" style="float: none">Next</a>
+        {{ end }}
+    </div>
+</nav>

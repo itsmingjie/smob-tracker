@@ -1,0 +1,8 @@
+baseURL = "https://smob.mingjie.info"
+languageCode = "en-us"
+title = "SMOB Tracker"
+
+[params]
+    logo = "/img/logo.svg"
+    favicon = "/img/favicon.png"
+    version = "1.0.0"

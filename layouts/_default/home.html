@@ -1,0 +1,19 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+
+{{ define "main" }}
+
+<div id="hero" class="wrap">
+    <img src="{{ .Site.Params.logo }}" style="width: 18rem; margin-bottom: 1.5rem" />
+    <h1>{{.Title }}</h1>
+    <p>{{ with .Params.description }}{{ . | safeHTML }}{{ end }}</p>
+</div>
+<ul id="posts">
+
+    {{ .Content }}
+
+</ul>
+{{ end }}
+{{ define "footer" }}
+{{ partial "footer" . }}
+{{ end }}
