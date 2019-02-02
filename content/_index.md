@@ -1,6 +1,6 @@
 +++
 title = "What have they promised?"
-description = "Previous SMOBs keep \"promising\" us things that they are going to do when they are elected. Let's see how they did.<br>Information maintained by Mingjie Jiang, not directly affiliated with any active campaign for SMOB. Correction or updates? Tweet at <a href=\"https://twitter.com/itsmingjie\">@itsmingjie</a>."
+description = "Previous SMOBs keep \"promising\" us things that they are going to do when they are elected. Let's see how they did.<br>Correction or updates? Tweet at <a href=\"https://twitter.com/itsmingjie\">@itsmingjie</a>."
 draft = false
 layout = "home"
 +++
