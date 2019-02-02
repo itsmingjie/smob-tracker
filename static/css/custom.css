@@ -29,3 +29,16 @@ img.nav-icon {
 tiny {
     font-size: 60%;
 }
+
+.is-navbar li a {
+    text-decoration: none;
+    margin-bottom: -2px;
+}
+
+.is-navbar .is-active a {
+    color: #000000;
+    text-decoration: none;
+    border-bottom: 2px solid red;
+    margin-bottom: -2px;
+    font-weight: bold;
+}

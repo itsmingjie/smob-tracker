@@ -3,6 +3,17 @@ languageCode = "en-us"
 title = "SMOB Tracker"
 
 [params]
-    logo = "/img/logo.svg"
-    favicon = "/img/favicon.png"
-    version = "1.0.0"
+  author = "Name"
+  logo = "/img/logo.svg"
+  favicon = "/img/favicon.png"
+  version = "1.0.0"
+  canonifyurls = true
+  languageCode = "en-us"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = -110

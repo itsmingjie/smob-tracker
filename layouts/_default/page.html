@@ -4,7 +4,6 @@
 {{ define "main" }}
 
 <div id="hero" class="wrap">
-    <small>Proposed by {{ .Params.smob }} · {{ .Params.status }}</small>
     <h1>{{.Title }}</h1>
     <p>{{ with .Params.description }}{{ . | safeHTML }}{{ end }}</p>
 </div>
