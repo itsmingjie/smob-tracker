@@ -6,14 +6,14 @@ layout = "home"
 +++
 
 <nav class="tabs" data-kube="tabs" data-equal="true">
-    <a href="#41" class="is-active">#41. Tadikonda</a>
-    <a href="#40">#40. Post</a>
-    <a href="#39">#39. Guerci</a>
+    <a href="#atadikonda" class="is-active">#41. Tadikonda</a>
+    <a href="#mpost">#40. Post</a>
+    <a href="#eguerci">#38-39. Guerci</a>
     <a href="#more">More coming soon...</a>
 </nav>
 
 <div style="text-align: left">
-    <section id="41">
+    <section id="atadikonda">
         <table class="is-striped">
             <thead>
                 <tr>
@@ -116,7 +116,7 @@ layout = "home"
             </tbody>
         </table>
     </section>
-    <section id="40">
+    <section id="mpost">
         <div class="is-row profile">
             <div class="is-col is-30">
                 <img src="/img/smob/40.jpg">
@@ -141,7 +141,7 @@ layout = "home"
             </tbody>
         </table>
     </section>
-    <section id="39">
+    <section id="eguerci">
         <div class="is-row profile">
             <div class="is-col is-30">
                 <img src="/img/smob/39.jpg">
