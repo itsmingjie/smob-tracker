@@ -1,10 +1,6 @@
 <div id="top" class="is-navbar-container">
-  <div class="is-brand">
-    <!--<a href="/" title="home">{{ .Site.Title }}</a>-->
-    <a href="/" title="home"><img src="{{ .Site.Params.logo }}" class="nav-icon is-logo" /></a>
-  </div>
   <div class="is-navbar">
-    <nav>
+    <nav class="is-center">
       <ul>
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}

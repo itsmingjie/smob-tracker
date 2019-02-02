@@ -30,6 +30,17 @@ tiny {
     font-size: 60%;
 }
 
+.is-navbar ul {
+    display: table !important;
+    width: 100%;
+    text-align: center;
+    border-spacing: 2rem;
+}
+
+.is-navbar li {
+    display: table-cell !important;
+}
+
 .is-navbar li a {
     text-decoration: none;
     margin-bottom: -2px;
