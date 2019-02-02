@@ -1,6 +1,6 @@
 +++
 title = "What's being worked on?"
-description = "SMOB candidates and members bring up tons of issues that needs to be addressed and fixed inside the MCPS community. We, as the student body, want to see these changes become a part of the system one day.<br /><br /><strong>The purpose of this site is never to blame the SMOB members themselves.</strong> They are always trying their best, and we appreciate their courage to step up and fight for their fellow students. The goal of this website is to maintain a list of issues that the students care about, so that someone in power can urge for a change. <br /><br />Correction or updates? Please tweet at <a href=\"https://twitter.com/itsmingjie\">@itsmingjie</a>.<tiny><br />Candidate information & portrait adapted from <a href=\"https://www.montgomeryschoolsmd.org/departments/student-leadership/smob/index.aspx\">MCPS</a></tiny>"
+description = "SMOB candidates and members bring up tons of issues that needs to be addressed and fixed inside the MCPS community. We, as the student body, want to see these changes become a part of the system one day.<br /><br /><strong>The purpose of this site is never to blame the SMOB members themselves.</strong> They are always trying their best, and we appreciate their courage to step up and fight for their fellow students. The goal of this website is to maintain a list of issues that the students care about, so that someone in power can urge for a change. <br /><br />Correction or updates? Please tweet at <a href=\"https://twitter.com/itsmingjie\">@itsmingjie</a>. Work in progress, help to update information will be appreciated.<br /><tiny>Candidate information & portrait adapted from <a href=\"https://www.montgomeryschoolsmd.org/departments/student-leadership/smob/index.aspx\">MCPS</a></tiny>"
 draft = false
 layout = "home"
 +++
@@ -38,49 +38,49 @@ layout = "home"
                 <tr>
                     <td>Universal Chromebook Rental Program</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=300">MTC 2018 5:00</a></td>
-                    <td><span class="label is-error">Incomplete</span></td>
+                    <td><span class="label">Unknown</span></td>
                     <td><!--<a href="./41/chromebook">Read</a>--></td>
                 </tr>
                 <tr>
                     <td>Expand Funding for Pre-K & Head Start</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=375">MTC 2018 6:15</a></td>
-                    <td><span class="label is-error">Incomplete</span></td>
+                    <td><span class="label">Unknown</span></td>
                     <td><!--<a href="./41/pre-k">Read</a>--></td>
                 </tr>
                 <tr>
                     <td>Administer Magnet Test to All Students</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=385">MTC 2018 6:25</a></td>
-                    <td><span class="label is-error">Incomplete</span></td>
+                    <td><span class="label">Unknown</span></td>
                     <td><!--<a href="./41/pre-k">Read</a>--></td>
                 </tr>
                 <tr>
                     <td>Expand Funding to Pay For AP/IB Programs</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=401">MTC 2018 6:41</a></td>
-                    <td><span class="label is-error">Incomplete</span></td>
+                    <td><span class="label">Unknown</span></td>
                     <td><!--<a href="./41/pre-k">Read</a>--></td>
                 </tr>
                 <tr>
                     <td>Increase Security Personnel in School</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=530">MTC 2018 8:50</a></td>
-                    <td><span class="label is-error">Incomplete</span></td>
+                    <td><span class="label">Unknown</span></td>
                     <td><!--<a href="./41/pre-k">Read</a>--></td>
                 </tr>
                 <tr>
                     <td>Increase Number of Active Shooter Drills</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=540">MTC 2018 9:00</a></td>
-                    <td><span class="label is-success">Complete</span></td>
+                    <td><span class="label">Unknown</span></td>
                     <td><!--<a href="./41/pre-k">Read</a>--></td>
                 </tr>
                 <tr>
                     <td>Have SMOB Minute Reach Every Student</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=790">MTC 2018 13:10</a></td>
-                    <td><span class="label is-success">Complete</span></td>
+                    <td><span class="label">Unknown</span></td>
                     <td><!--<a href="./41/pre-k">Read</a>--></td>
                 </tr>
                 <tr>
                     <td>Implement a Homework Free Weekend Every Semester</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=1018">MTC 2018 16:58</a></td>
-                    <td><span class="label is-success">Complete</span></td>
+                    <td><span class="label">Unknown</span></td>
                     <td><!--<a href="./41/pre-k">Read</a>--></td>
                 </tr>
                 <tr>
@@ -92,13 +92,13 @@ layout = "home"
                 <tr>
                     <td>Hire More Counselors</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=1042">MTC 2018 17:22</a></td>
-                    <td><span class="label is-error">Incomplete</span></td>
+                    <td><span class="label">Unknown</span></td>
                     <td><!--<a href="./41/pre-k">Read</a>--></td>
                 </tr>
                 <tr>
                     <td>Day-long Seminar with Counselor Each Semester</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=1051">MTC 2018 17:31</a></td>
-                    <td><span class="label is-error">Incomplete</span></td>
+                    <td><span class="label">Unknown</span></td>
                     <td><!--<a href="./41/pre-k">Read</a>--></td>
                 </tr>
                 <tr>
@@ -110,7 +110,7 @@ layout = "home"
                 <tr>
                     <td>Employ Long Lasting Renovation Plans</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=1110">MTC 2018 18:30</a></td>
-                    <td><span class="label is-error">Incomplete</span></td>
+                    <td><span class="label">Unknown</span></td>
                     <td></td>
                 </tr>
             </tbody>
