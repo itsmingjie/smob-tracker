@@ -1,10 +1,9 @@
 +++
-title = "What have they promised?"
-description = "Previous SMOBs keep \"promising\" us things that they are going to do when they are elected. Let's see how they did.<br />Correction or updates? Tweet at <a href=\"https://twitter.com/itsmingjie\">@itsmingjie</a>.<br /><tiny>Candidate information & portrait adapted from <a href=\"https://www.montgomeryschoolsmd.org/departments/student-leadership/smob/index.aspx\">MCPS</a></tiny>"
+title = "What's being worked on?"
+description = "SMOB candidates and members bring up tons of issues that needs to be addressed and fixed inside the MCPS community. We, as the student body, want to see these changes become a part of the system one day.<br /><br /><strong>The purpose of this site is never to blame the SMOB members themselves.</strong> They are always trying their best, and we appreciate their courage to step up for their fellow students. The goal of this website is to maintain a list of issues that the students care about, so that someone in power can urge for a change. <br /><br />Correction or updates? Please tweet at <a href=\"https://twitter.com/itsmingjie\">@itsmingjie</a>.<tiny><br />Candidate information & portrait adapted from <a href=\"https://www.montgomeryschoolsmd.org/departments/student-leadership/smob/index.aspx\">MCPS</a></tiny>"
 draft = false
 layout = "home"
 +++
-
 <nav class="tabs" data-kube="tabs" data-equal="true">
     <a href="#atadikonda" class="is-active">#41. Tadikonda</a>
     <a href="#mpost">#40. Post</a>
@@ -29,6 +28,7 @@ layout = "home"
                         <img src="/img/smob/41.jpg">
                     </div>
                     <div class="is-col is-70">
+                        <span class="label is-focus">SMOB In Office</span>
                         <h3 class="title">41. Ananya Tadikonda</h3>
                         <p>2018–2019 · Richard Montgomery HS</p>
                         <p>Ms. Tadikonda is the 41st student member of the Board of Education. She is a member of the Board's Fiscal Management Committee and the Policy Management Committee.</p>
@@ -87,7 +87,7 @@ layout = "home"
                     <td>Make Sure Mental Health is Discussed in Every Health Class</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=1029">MTC 2018 17:09</a></td>
                     <td><span class="label">Unknown</span></td>
-                    <td>Too Vague</td>
+                    <td></td>
                 </tr>
                 <tr>
                     <td>Hire More Counselors</td>
@@ -105,7 +105,7 @@ layout = "home"
                     <td>Reform Offices to Use as Instructional Areas</td>
                     <td><a href="https://youtu.be/Z6_Ovf10Uzs?t=1096">MTC 2018 18:16</a></td>
                     <td><span class="label">Unknown</span></td>
-                    <td>Too Vague</td>
+                    <td></td>
                 </tr>
                 <tr>
                     <td>Employ Long Lasting Renovation Plans</td>
