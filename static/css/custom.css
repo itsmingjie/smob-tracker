@@ -53,3 +53,18 @@ tiny {
     margin-bottom: -2px;
     font-weight: bold;
 }
+
+/* fade image in while loading and show a spinner as background image (good for progressive images) */
+
+.lazyload {
+    opacity: 0;
+}
+
+.lazyloading {
+    opacity: 1;
+}
+
+img.fade {
+    transition: opacity 300ms;
+    -webkit-transition: opacity 300ms;
+}

@@ -25,7 +25,7 @@ layout = "home"
             <tbody>
                 <div class="is-row profile">
                     <div class="is-col is-30">
-                        <img src="/img/smob/41.jpg">
+                        {{< figure src="/img/smob/41.jpg" >}}
                     </div>
                     <div class="is-col is-70">
                         <span class="label is-focus">SMOB In Office</span>
@@ -119,7 +119,7 @@ layout = "home"
     <section id="mpost">
         <div class="is-row profile">
             <div class="is-col is-30">
-                <img src="/img/smob/40.jpg">
+                {{< figure src="/img/smob/40.jpg" >}}
             </div>
             <div class="is-col is-70">
                 <h3 class="title">40. Matthew Post</h3>
@@ -144,7 +144,7 @@ layout = "home"
     <section id="eguerci">
         <div class="is-row profile">
             <div class="is-col is-30">
-                <img src="/img/smob/39.jpg">
+                {{< figure src="/img/smob/39.jpg" >}}
             </div>
             <div class="is-col is-70">
                 <h3 class="title">38-39. Eric Guerci</h3>
